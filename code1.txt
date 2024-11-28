@@ -1,1 +1,1 @@
-This is commit no.2 in the dev branch
+A commit in main after the merge, which should not be there in dev branch during creation
