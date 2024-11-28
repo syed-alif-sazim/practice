@@ -1,1 +1,1 @@
-# practice
+# This repository has been created to practice git and github
